@@ -1,0 +1,9 @@
+ls means to show directories
+cd means to change direcotries
+
+	if I wanted to access my git test directory
+	I would type into the command line ls gittest
+
+Once I am in the directory, I am then able to creat a new repo by using 
+nano command which means to add a new file.
+
